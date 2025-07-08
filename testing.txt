@@ -1,2 +1,5 @@
 I am trying to learn Git
 this is confusing, 
+
+
+update: i kind if understand how to push into git, let me try updating the file.
